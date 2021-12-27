@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: Igpm (level)
+Mean: 0.83
+Median: 0.65
+Sample std: 1.05
+Variance: 1.10
+Lowest: -1.10
+Highest: 4.34
+--------------------------------------------------

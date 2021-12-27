@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 2
+
+Variable: IGPM
+ADF Test: -3.473060
+P-value: 0.042365
+Lags: 10
+Observations: 69
+Critical values:
+  1%: -4.096354
+  5%: -3.476155
+  10%: -3.165415
+--------------------------------------------------
